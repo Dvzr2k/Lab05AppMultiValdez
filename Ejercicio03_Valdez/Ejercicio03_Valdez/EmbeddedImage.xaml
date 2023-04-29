@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local2="clr-namespace:Ejercicio03_Valdez"
+             x:Class="Ejercicio03_Valdez.EmbeddedImage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Embedded Images!"
+             VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"/>
+            <Image Source="{local2:ImageResource
+                Ejercicio03_Valdez.prueba.png}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

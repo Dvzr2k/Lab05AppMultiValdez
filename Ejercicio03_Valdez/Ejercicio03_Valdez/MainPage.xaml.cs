@@ -57,6 +57,18 @@ namespace Ejercicio03_Valdez
             {
                 await Navigation.PushAsync(new EmbeddedImage());
             };
+            Item12.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new ListviewCode());
+            };
+            Item13.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new ListviewDemo());
+            };
+            Item14.Clicked += async (sender, e) =>
+            {
+                await Navigation.PushAsync(new ListviewSource());
+            };
         }
     }
 }

@@ -24,3 +24,6 @@ D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Va
 D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\bin\Debug\netstandard2.0\Ejercicio03_Valdez.pdb
 D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\obj\Debug\netstandard2.0\ref\Ejercicio03_Valdez.dll
+D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\obj\Debug\netstandard2.0\ListviewCode.xaml.g.cs
+D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\obj\Debug\netstandard2.0\ListviewDemo.xaml.g.cs
+D:\Users\diegu\Source\Repos\Ejercicio03_Valdez\Ejercicio03_Valdez\Ejercicio03_Valdez\obj\Debug\netstandard2.0\ListviewSource.xaml.g.cs
